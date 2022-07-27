@@ -1,0 +1,56 @@
+body{
+    background-image: url("bg2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#floatingInput{
+    box-sizing: border-box;
+}
+/* .text-center {
+    text-align: center!important;
+    margin-left: 0%;
+    margin-top: 0%;
+} */
+/* body {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: url('bg17.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+      
+} */
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+} 
+/* .m-auto {
+    margin: auto!important;
+} */
+/* .w-100 {
+    width: 100%!important;
+} */
+/*
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+main {
+    display: block;
+}
+.mb-4 {
+    margin-bottom: 1.5rem!important;
+}
+img, svg {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.text-muted{
+    background: rgb(255, 255, 255);
+} */
